@@ -1,5 +1,5 @@
 # yummyrecipes
-<img src='./recipes.jpb' title='Main-image' width='' alt='Main-image' />
+<img src='./recipes.png' title='Main-image' width='' alt='Main-image' />
 
 
 
