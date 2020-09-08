@@ -1,5 +1,5 @@
 
-<img src='./recipeGithub2.gif' title='Main-image' width='' alt='Main-image' />
+<img src='./recipeGithub5.gif' title='Main-image' width='' alt='Main-image' />
 
 <h2>Yummyrecipes with React</h2>
 <p>Discover new recipes! Find and share everyday cooking inspiration!👩🏻‍🍳</p>
