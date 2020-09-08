@@ -4,7 +4,7 @@
 
 <h2>Yummyrecipes with React</h2>
 <p>Discover new recipes! Find and share everyday cooking inspiration!👩🏻‍🍳</p>
-<p>🚀🚀*Coming Soon*🚀🚀</p>
+<p>🚀🚀 Coming Soon 🚀🚀</p>
 <img src='./recipeGithub5.gif' title='Main-image' width='50%' alt='Main-image' />
 
 ## Installation and Setup Instructions
