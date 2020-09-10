@@ -4,6 +4,8 @@
 
 <p>Discover new recipes! Find and share everyday cooking inspiration!👩🏻‍🍳</p>
 <p>🚀🚀 Coming Soon 🚀🚀</p>
+
+<h4>DEMO</h4>
 <img src='./recipeGithub5.gif' title='Main-image' width='50%' alt='Main-image' />
 
 ## Installation and Setup Instructions
